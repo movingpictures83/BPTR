@@ -2,7 +2,7 @@
 # Language: C++
 # Input: TXT
 # Output: PREFIX
-# Tested with: PluMA 1.1, Python3.6
+# Tested with: PluMA 2.0, GCC4.8.4
 
 BPTR (Brown et al, 2016) for bacterial growth rates.
 
