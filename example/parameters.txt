@@ -1,0 +1,3 @@
+genes	result.genes.txt
+fasta	plugins/BPTR/example/FASTA/
+samfile	input.sam

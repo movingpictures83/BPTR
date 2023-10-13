@@ -1,0 +1,2 @@
+Prefix plugins/BPTR/example/
+Plugin BPTR inputfile parameters.txt outputfile ptr
